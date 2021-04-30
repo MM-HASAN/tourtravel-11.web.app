@@ -1,0 +1,15 @@
+.section-title {
+  padding: 100px 0px;
+}
+
+.section-title h2 {
+  letter-spacing: 3px;
+  font-weight: 700;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.section-title p {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: goldenrod;
+}

@@ -1,0 +1,27 @@
+.header {
+  background-color: green;
+  height: 100px;
+  background-image: url("../../../images/bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.logo {
+  font-weight: 900;
+}
+.header-nav {
+  float: right;
+}
+.header-nav li {
+  list-style: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+.header-nav li a {
+  text-decoration: none;
+  padding: 10px;
+  color: rgb(4, 29, 255);
+  text-transform: uppercase;
+  font-size: 20px;
+}
